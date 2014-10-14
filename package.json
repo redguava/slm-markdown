@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node_modules/lab/bin/lab -v -t 90"
   },
-  "author": "yury.korolev@gmail.com",
+  "author": "Yury Korolev",
   "license": "ISC",
   "dependencies": {
     "marked": "^0.3.2"
