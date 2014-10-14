@@ -1,0 +1,18 @@
+{
+  "name": "slm-markdown",
+  "version": "1.0.0",
+  "description": "Markdown plugin for Slm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/lab/bin/lab -v -t 90"
+  },
+  "author": "yury.korolev@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^0.3.2"
+  },
+  "devDependencies": {
+    "lab": "^4.6.2",
+    "slm": "^0.1.5"
+  }
+}
