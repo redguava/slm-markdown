@@ -9,7 +9,7 @@
   "author": "Yury Korolev",
   "license": "ISC",
   "dependencies": {
-    "marked": "^0.3.2"
+    "marked": "^2.0.0"
   },
   "devDependencies": {
     "lab": "^4.6.2",
